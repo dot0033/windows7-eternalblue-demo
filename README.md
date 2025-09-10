@@ -22,10 +22,13 @@ The goal of this project is **educational and portfolio demonstration only**.
 4. **Documentation:** Save screenshots for reporting.  
 
 ## Screenshots
-All evidence from the lab is included in the [`/screenshots`](./screenshots) folder:
-- Service scan results  
-- Vulnerability detection  
-- Shell session established  
+Here are screenshots captured from the lab:
+
+![Scan results](Screenshot%202025-09-10%20210659.png)  
+*Service scan and vulnerability check.*
+
+![Shell evidence](WhatsApp%20Image%202025-08-14%20at%206.20.42%20PM.jpeg)  
+*Shell session established in the controlled lab environment.*
 
 ## Remediation
 - Apply Microsoft patch **MS17-010**.  
@@ -37,4 +40,3 @@ All evidence from the lab is included in the [`/screenshots`](./screenshots) fol
 ⚠️ This work was performed in a **controlled lab environment**.  
 It is shared for **educational purposes only**.  
 Never attempt these steps on systems you do not own or have explicit permission to test.
-
