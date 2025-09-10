@@ -37,3 +37,9 @@ All evidence from the lab is included in the [`/screenshots`](./screenshots) fol
 ⚠️ This work was performed in a **controlled lab environment**.  
 It is shared for **educational purposes only**.  
 Never attempt these steps on systems you do not own or have explicit permission to test.
+
+## Screenshots
+
+![Scan results](screenshots/Screenshot%202025-09-10%20210659.png)
+![Shell evidence](screenshots/WhatsApp%20Image%202025-08-14%20at%206.20.42%20PM.jpeg)
+
