@@ -1,0 +1,12 @@
+# Don't accidentally commit executables or payloads
+*.exe
+*.dll
+*.bin
+payloads/
+exploit*
+
+# temp files
+*.log
+*.tmp
+.vscode/
+__pycache__/
